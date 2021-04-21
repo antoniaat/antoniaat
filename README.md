@@ -1,6 +1,6 @@
 ### Hey! I'm Antonia
 
-:dart: I'm a **front-end developer** *(full-stack wanna be)* and I enjoy building everything from small business sites to rich web applications.
+:dart: I'm a **front-end developer** and I enjoy building everything from small business sites to rich web applications.
 
 :mortar_board: I'm a **technical trainer** with over **200** lectures on various topics.
 
